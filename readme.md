@@ -24,7 +24,7 @@ This project describes the procedure of bird detection and classification using 
 
 ## SECTION 4 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/RamdasKrishnakumar/NUS-ISS-Cognitive-Systems-CE/blob/master/Project%20Report/Project%20Report.pdf>
+`<Github File Link>` : <https://github.com/Shashankwer/Yolov3/blob/master/Project_report.docx>
 
 
 
